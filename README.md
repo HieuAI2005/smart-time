@@ -11,7 +11,7 @@ Clone this repository:
 Web: http://localhost:5173
 
 ## 🔗 Deployed Web URL or APK file
-✍️ [Paste your link here]
+✍️ [[Web Demo](https://smart-time-seven.vercel.app/login)]
 
 ## 🎥 Demo Video
 **Demo video link (≤ 2 minutes):**  
